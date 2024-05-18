@@ -1,0 +1,14 @@
+C:\Users\Martins\Desktop\licao\bin\Debug\net8.0\licao.exe
+C:\Users\Martins\Desktop\licao\bin\Debug\net8.0\licao.deps.json
+C:\Users\Martins\Desktop\licao\bin\Debug\net8.0\licao.runtimeconfig.json
+C:\Users\Martins\Desktop\licao\bin\Debug\net8.0\licao.dll
+C:\Users\Martins\Desktop\licao\bin\Debug\net8.0\licao.pdb
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.AssemblyInfoInputs.cache
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.AssemblyInfo.cs
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.csproj.CoreCompileInputs.cache
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.dll
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\refint\licao.dll
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.pdb
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\licao.genruntimeconfig.cache
+C:\Users\Martins\Desktop\licao\obj\Debug\net8.0\ref\licao.dll
